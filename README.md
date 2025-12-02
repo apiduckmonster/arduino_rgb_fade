@@ -2,7 +2,7 @@
 
 Mein erster eigener Code für einen RGB-LED-Fader mit Arduino.
 
-![Arduino Aufbau](/images/IMG_4808.jpeg
+![Arduino Aufbau](/images/IMG_4808.jpeg)
 
 ## Funktionen
 - RGB-LED wechselt sanft die Farben von Blau zu Rot zu Grün.
